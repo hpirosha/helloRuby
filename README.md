@@ -1,2 +1,2 @@
-helloRuby
+Programs to get started on Ruby !
 =========
